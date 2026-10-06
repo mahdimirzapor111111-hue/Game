@@ -1,0 +1,6 @@
+{
+  "name": "نبرد پادشاهان - بازی کارتی شاهنامه",
+  "description": "بازی استراتژیک کارتی و نبرد قهرمانان اساطیری شاهنامه با قابلیت ادیتور پیشرفته، چیدمان ۶×۳، مسابقات آنلاین، اتحادیه و بازارچه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
